@@ -1,0 +1,8 @@
+# Balanceamento global do arsenal (use /arsenal reload)
+# Multiplicador do dano de TODAS as habilidades (1.0 = padrão, 0.7 = mais fraco para PvP competitivo)
+damage-multiplier: 1.0
+# Multiplicador dos cooldowns (1.0 = padrão, 1.5 = recargas 50% maiores)
+cooldown-multiplier: 1.0
+# Usa as texturas próprias das armas (exige o resource pack "arsenal-resourcepack.zip" nos jogadores).
+# Sem o pack instalado o item aparece como "textura faltando"; coloque false para usar o visual vanilla.
+custom-models: true

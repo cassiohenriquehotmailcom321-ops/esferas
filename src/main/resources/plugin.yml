@@ -1,0 +1,13 @@
+name: Arsenal
+version: 1.0.0
+main: com.arsenal.ArsenalPlugin
+api-version: '1.21'
+description: Arsenal de armas lendárias com habilidades, partículas e sons.
+commands:
+  arsenal:
+    description: Gerencia o arsenal lendário
+    usage: /arsenal <list|give|all|reload>
+    permission: arsenal.admin
+permissions:
+  arsenal.admin:
+    default: op
